@@ -1,0 +1,49 @@
+.site-header {
+    background-color: #52639B;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    padding: 10px 40px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+.LOGO {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    text-decoration: none;
+}
+
+.LOGO img {
+    display: block;
+}
+
+.LOGO-text {
+    font-weight: 400;
+    font-size: 64px;
+    color: #EFF0ED;
+    white-space: nowrap;
+}
+
+.header-navigation {
+    margin-left: 60px;
+}
+
+.menu-navigation {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 230px;
+    margin-left: 260px;
+}
+
+.menu-navigation a {
+    text-decoration: none;
+    color: #EFF0ED;
+
+
+}
